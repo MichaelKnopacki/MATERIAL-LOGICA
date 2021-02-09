@@ -1,4 +1,4 @@
-# MATERIAL-LOGICA
+# MATERIAL LÓGICA
 
 Aqui serão postados os exercícios práticados nas aulas de lógica.
 
@@ -22,8 +22,8 @@ Durante esse período vamos utilizar o VisualG, criando algotitmos com a lingiag
 
 ##### Atribuicao
 
-```Algoritmo "00__Atribuicao"
-
+Onde atribuimos uma valor a uma variável.
+```
 num1, num2:inteiro
 
 Inicio
