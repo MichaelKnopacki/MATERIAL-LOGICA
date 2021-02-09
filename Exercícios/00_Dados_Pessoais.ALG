@@ -11,6 +11,15 @@ idade1, telefone1 : inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
+
+escreval (" _____        _____              _____      _____               _  _____      ")
+escreval ("|  __ \      |  __ \            |  __ \    / ____|        /\   (_)/ ____|     ")
+escreval ("| |  | | __ _| |  | | ___  ___  | |__) |__| (___   ___   /  \   _| (___       ")
+escreval ("| |  | |/ _` | |  | |/ _ \/ __| |  ___/ _ \\___ \ / _ \ / /\ \ | |\___ \      ")
+escreval ("| |__| | (_| | |__| | (_) \__ \ | |  |  __/____) | (_) / ____ \| |____) |     ")
+escreval ("|_____/ \__,_|_____/ \___/|___/ |_|   \___|_____/ \___/_/    \_\_|_____/      ")
+escreval ("                                                                              ")
+
 escreval ("Digite seu nome: ")
 leia (nome1)
 
