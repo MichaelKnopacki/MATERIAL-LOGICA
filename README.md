@@ -4,12 +4,12 @@ O que é Lógica:
 
 "Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não."
 
-<img src="https://user-images.githubusercontent.com/77402918/107370978-725f9b00-6ac2-11eb-833a-9da9bfc0683f.png" width="300px">
+<img src="https://user-images.githubusercontent.com/77402918/107370978-725f9b00-6ac2-11eb-833a-9da9bfc0683f.png" width="500px">
 
 ![Intro](https://img.shields.io/badge/Version-0.0.1-F21B3F)![Projeto](https://img.shields.io/badge/Projeto-Lógica-08BDBD) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Easy-3A5683) ![Languange JS](https://img.shields.io/badge/Language-Portugol-F7DF1E) ![Me Patrocina](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=flat-square&logo=intel&logoColor=white) ![PC](https://img.shields.io/badge/Windows-ACER_Aspire_3-0078D6?style=flat-square&logo=windows&logoColor=white)
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO -->
 
-<img src="https://user-images.githubusercontent.com/77402918/107371316-eac65c00-6ac2-11eb-81f4-1cd1834e64d8.png" width="300px">
+<img src="https://user-images.githubusercontent.com/77402918/107371316-eac65c00-6ac2-11eb-81f4-1cd1834e64d8.png" width="500px">
 
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO -->
 
