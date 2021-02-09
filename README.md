@@ -14,10 +14,13 @@ O que é Lógica:
 # Conteúdos
 - [Início](#instalação)
     - [Atribuição](#Atribuicao)
+    - [Condicionais](#Condicionais)
+    - [Laços de Repetição](#laços-de-repetição)
 
 ## Início 
 
 Este é um repositório referente as aulas de Lógica, ministradas pelo professor Adriano Leite da Silva. Abaixo serão criados tópicos relatando todo o processo de aprendizado durante este período.
+Nesta pasta vão ficar todos os arquivos de introdução à Lógica de Programação. Todos os passos iniciais que damos no começo do desenvolvimento/aprendizado.
 
 ### _Atribuiçao_
 
@@ -46,6 +49,13 @@ escreval("#################################################")
 
 Fimalgoritmo
 ```
+### _Condicionais_
+
+```Vamos armazenar aqui todos os arquivos sobre estruturas condicionais.```
+
+### _Laços de Repetição_
+
+```Nessa iremos colocar todos os arquivos correspondentes aos laços/estruturas de Repetição.```
 
 ## Como utilizar?
 
