@@ -1,15 +1,15 @@
 Algoritmo "00__Atribuicao"
-// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
+// Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Adriano Leite da Silva
-// Descriï¿½ï¿½o   : Treinando a atribuiï¿½ï¿½o de valores e operaï¿½ï¿½es bï¿½sicas
+// Descrição   : Treinando a atribuicao de valores e operacoes basicas
 // Autor(a)    : Michael Carlos Knopacki
 // Data atual  : 09/02/2021
 Var
-// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
+// Secao de Declaracoes das variaveis
 num1, num2:inteiro
 
 Inicio
-   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   // Secao de Comandos, procedimento, funcoes, operadores, etc...
    escreval("#################################################")
 
    escreval("Digite um valor: ")
@@ -18,14 +18,14 @@ Inicio
    escreval("Digite um valor: ")
    leia(num2)
 
-   escreval("O resultado da soma ï¿½: ", num1 + num2)
-   escreval("O resultado da subtracao ï¿½: ", num1 - num2)
-   escreval("O resultado da multiplicacao ï¿½: ", num1 * num2)
-   escreval("O resultado da exponenciacao ï¿½: ", num1 ^ num2)
-   escreval("O resultado da divisao ï¿½: ", num1 / num2)
-   escreval("O resultado da resto ï¿½: ", num1 % num2)
-   // Resto da divisï¿½o
-   // O sistema irï¿½ fazer a divisï¿½o, mas apresentarï¿½ o que sobrou da operaï¿½ï¿½o
+   escreval("O resultado da soma e: ", num1 + num2)
+   escreval("O resultado da subtracao e: ", num1 - num2)
+   escreval("O resultado da multiplicacao e: ", num1 * num2)
+   escreval("O resultado da exponenciacao e: ", num1 ^ num2)
+   escreval("O resultado da divisao e: ", num1 / num2)
+   escreval("O resultado da resto e: ", num1 % num2)
+   // Resto da divisao
+   // O sistema ira fazer a divisao, mas apresentara o que sobrou da operaçao
 
 escreval("#################################################")
 
