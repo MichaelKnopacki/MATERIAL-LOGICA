@@ -15,7 +15,7 @@ O que é Lógica:
 
 # Conteúdos
 - [Início](#instalação)
-    - [Atribuição](#Atribuicao)
+    - [Atribuição](#Atribuição)
     - [Condicionais](#Condicionais)
     - [Laços de Repetição](#laços-de-repetição)
 
@@ -24,7 +24,7 @@ O que é Lógica:
 Este é um repositório referente as aulas de Lógica, ministradas pelo professor Adriano Leite da Silva. Abaixo serão criados tópicos relatando todo o processo de aprendizado durante este período.
 Nesta pasta vão ficar todos os arquivos de introdução à Lógica de Programação. Todos os passos iniciais que damos no começo do desenvolvimento/aprendizado.
 
-### _Atribuiçao_
+### _Atribuição_
 
 É quando atribuimos um valor a uma _variável_.
 No exemplo abaixo temos duas variáveis declaradas como  *num1, num2* e logo após declarar essas _variáveis_ temos o **tipo** dela que é _número inteiro_.
