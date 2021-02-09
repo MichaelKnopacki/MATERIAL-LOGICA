@@ -67,10 +67,6 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 📄 Ajudando a melhorar a documentação.<br />
 🚀 Compartilhando este projeto com seus amigos.<br />
 
-## Licença
-
-Aqui você coloca o tipo de licença que o projeto precisa. (MIT, GNU ou afins).
-
 ## Status do Projeto
 
 Esse repo está sendo criado e alimentado aos pouquinhos, tenha paciência, por favor. 😍😁💜👽
