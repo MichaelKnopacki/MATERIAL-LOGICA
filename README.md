@@ -46,6 +46,16 @@ escreval("#################################################")
 
 Fimalgoritmo
 ```
+## Como utilizar?
+
+Copie este repositório para o seu computador e abra os códigos dentro do VisualG, que voce encontra no link ao lado. Basta baixar, descompactar e abrir o programa.
+
+Ele é relativamente leve e NÃO COSTUMA travar. Mas caso isso aconteça, feche o programa e abra novamente.
+
+## VisualG
+
+Observando a dificuldade dos estudantes de Computação em entender programação, o ex-aluno do Campus Gaspar e professor universitário, Antônio C. Nicolodi, criou o VisuAlg 3.0, um software, gratuito, que permite ao usuário acompanhar, passo a passo, o processo de criação de aplicativos para computadores e outros dispositivos eletrônicos, como celulares ou tablets. O sucesso do programa foi tanto que já chegou a mais de 1 milhão de downloads
+
 ## Como contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
