@@ -46,6 +46,7 @@ escreval("#################################################")
 
 Fimalgoritmo
 ```
+
 ## Como utilizar?
 
 Copie este repositório acima para o seu computador e abra os códigos dentro do VisualG, que você encontra no link https://visualg3.com.br/. Basta baixar, descompactar e abrir o programa.
