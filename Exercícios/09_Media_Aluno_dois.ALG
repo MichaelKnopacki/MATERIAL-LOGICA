@@ -38,10 +38,14 @@ escreval ("Sua média foi : ",(nota1+nota2+nota3+nota4)/4)
 
 media<-(nota1+nota2+nota3+nota4)/4
 
-se ( media >= 7 ) entao
-escreval ("Parabens, passou de ano")
+se ( media <= 5 ) entao
+   escreval ("Reprovado")
 senao
-escreval ("Reprovado")
+     se (media >5 ) e (media <7 ) entao
+        escreval ("Recuperacao")
+     senao
+          escreval ("Aprovado")
+     fimse
 fimse
 
 
