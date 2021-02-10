@@ -1,5 +1,5 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação] 
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o] 
 // Professor   : Antonio Carlos Nicolodi 
 
 Var
