@@ -6,8 +6,9 @@ Algoritmo "Media Aluno"
 // Data atual  : 10/02/2021
 Var
 // Seção de Declarações das variáveis 
-nota1,nota2,nota3,nota4,media : inteiro
+nota1,nota2,nota3,nota4 : inteiro
 nome,turma : caractere
+media: real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
@@ -35,8 +36,9 @@ escreval ("Nota3 :", nota3)
 escreval ("Nota4 :", nota4)
 escreval ("Sua média foi : ",(nota1+nota2+nota3+nota4)/4)
 
+media<-(nota1+nota2+nota3+nota4)/4
 
-se (media >= 7 ) entao
+se ( media >= 7 ) entao
 escreval ("Parabens, passou de ano")
 senao
 escreval ("Reprovado")
